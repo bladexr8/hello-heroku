@@ -4,6 +4,7 @@ sudo: false
 install:
   - npm install
 script:
+  - echo "[INFO] Starting hello-heroku build..."
   - npm run lint
   - npm run test
   

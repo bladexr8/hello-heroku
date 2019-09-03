@@ -7,7 +7,7 @@
 const http = require('http');
 
 // not required for Heroku
-//const hostname = '127.0.0.1';
+// const hostname = '127.0.0.1';
 
 // get running port from Heroku environment variable (if available)
 const PORT = process.env.PORT || 5000;
@@ -23,5 +23,3 @@ server.listen(PORT, () => {
     // es-lint-disable-next-line
     console.log(`[INFO] Server running on ${PORT}`);
 });
-
-

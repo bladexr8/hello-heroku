@@ -4,8 +4,12 @@
   "description": "Basic Heroku Application",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stephen Moss",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "11.4.0"
+  }
 }

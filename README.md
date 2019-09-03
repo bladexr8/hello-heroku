@@ -7,3 +7,7 @@ https://codeburst.io/node-js-on-heroku-a-more-complete-tutorial-part-1-9e80cb071
 ## Part 2
 https://codeburst.io/node-js-on-heroku-a-more-complete-tutorial-part-2-53350381543c
 
+## Part 3
+https://codeburst.io/node-js-on-heroku-a-more-complete-tutorial-part-3-dcd83888939b
+
+
